@@ -3,8 +3,8 @@
 A full-stack task management application with a React frontend and Node.js/Express backend.
 
 ## Project Structure
-- [Backend Starter Repo](https://github.com/Negar-Maleki/hmcts-dev/tree/main/hmcts-task-backend) - Express API with Prisma ORM 
-- [Frontend Starter Repo](https://github.com/Negar-Maleki/hmcts-dev/tree/main/hmcts-task-frontend) - React application (Vite + Vitest)
+- `hmcts-task-frontend/` - React application (Vite + Vitest)
+- `hmcts-task-backend/` - Express API with Prisma ORM
 
 ## Quick Start
 
